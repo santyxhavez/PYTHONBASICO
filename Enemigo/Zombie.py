@@ -1,4 +1,4 @@
-from enemigo import *
+from Enemigo import *
 
 class Zombie(Enemigo):
     def __init__(self, puntos_energia=10, ataque=1):
